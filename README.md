@@ -14,4 +14,3 @@ Elaine Example, Junior MEEG student, favorite programming language is Excel Macr
 
 Premal Patel, Senior CHEG student, favorite programming language is Python
 
-Zhenhao Shao, Junior Computer Science student, favorite programming language is Java
